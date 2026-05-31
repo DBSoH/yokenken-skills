@@ -1,7 +1,7 @@
 ---
 name: tavern-character-writing
-description: Use when writing character cards for Tavern AI / SillyTavern, creating character personalities, or designing role-play characters with deep personality traits. Triggers include: writing a character card, creating a new character, designing character personality, improving character expression, or when the user mentions "角色卡" / "写卡" / "人设".
-trigger: 写角色卡、做人设、写人设、角色卡、character card、角色设计、角色性格、人物卡、SillyTavern、Tavern AI、角色补充、开场白、世界书条目
+description: "Use when writing character cards for Tavern AI / SillyTavern, creating character personalities, or designing role-play characters with deep personality traits. Triggers include: writing a character card, creating a new character, designing character personality, improving character expression, or when the user mentions '角色卡' / '写卡' / '人设'."
+trigger: "写角色卡、做人设、写人设、角色卡、character card、角色设计、角色性格、人物卡、SillyTavern、Tavern AI、角色补充、开场白、世界书条目"
 alwaysApply: false
 ---
 
